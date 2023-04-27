@@ -1,0 +1,54 @@
+body {
+  font-family: "Markazi Text", serif;
+  padding: 30px;
+}
+h1 {
+  font-size: 4em;
+}
+h2 {
+  font-size: 3em;
+}
+p {
+  font-size: 1.5em;
+}
+header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+}
+nav ul {
+  list-style: none;
+  text-align: center;
+}
+nav li {
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 30px;
+}
+nav a {
+  text-decoration: none;
+  color: rgb(1, 71, 1);
+  text-transform: uppercase;
+  font-size: 2em;
+}
+
+section {
+  display: flex;
+}
+article {
+  flex: 1;
+}
+footer {
+  padding-top: 100px;
+}
+footer img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+}
+footer p {
+  text-align: center;
+}
